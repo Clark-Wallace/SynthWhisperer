@@ -123,7 +123,7 @@ SynthWhisperer is built upon the pioneering **Secret Sauce** project:
 - **Synthesizer Configurations**: JSON parameter mappings for Noisemaker, Moog Sub Phatty, Guitar Rig, and other synthesizers
 - **Core Methodology**: The concept of mapping natural language to synthesizer parameters
 
-**Special thanks to the Secret Sauce creator** for developing the foundational machine learning system that makes automatic sound reverse engineering possible, and for providing the training data that powers SynthWhisperer's intelligence.
+**Special thanks https://github.com/tsellam/Secret-Sauce** for developing the foundational machine learning system that makes automatic sound reverse engineering possible, and for providing the training data that powers SynthWhisperer's intelligence.
 
 ---
 
